@@ -1,0 +1,1 @@
+#aws --profile creditosalrio --region us-east-1 ecs update-service --cluster prod-onboardingrio --service prod-onboardingrio-CodePipelineSmsService-1DWIL8T4NBPV1-Service-Service-1XVXTVCZFMEM6 --force-new-deployment
