@@ -1,0 +1,4 @@
+username: user
+database: db
+password: acaelpassword
+dbroles: dbOwner
